@@ -1,4 +1,4 @@
-# rmg4750.github.io
+# Life Expectancy Data Shiny App
 
 
 This is a Shiny App I created using the 'Life Expectancy 2000-2015' dataset from Kaggle. This data includes life expectancy data among other descriptive variables like GDP per capita, CO2 Emissions, Health Expenditure, and even Beer Consumption for 119 countries.
